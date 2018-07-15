@@ -1,6 +1,4 @@
-# TODO: スライドのタイトル
-
-TODO: スライドの説明
+# kosenconf in tokyo 2018
 
 ## 作者向け
 
